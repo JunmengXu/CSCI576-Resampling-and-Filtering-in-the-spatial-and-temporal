@@ -5,3 +5,5 @@ Mypart1.java aimed to develop your understanding of sampling/aliasing issues in 
 Mypart2.java deals with sampling/aliasing issues in the temporal domain.
 
 MyExtraCredit.javaa changes Mypart2 to take in two additional parameters.
+
+![Alt text](/assignment1.png?raw=true "Title")
